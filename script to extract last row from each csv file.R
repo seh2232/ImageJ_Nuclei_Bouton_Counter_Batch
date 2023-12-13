@@ -1,4 +1,4 @@
-setwd("C:/Users/seho7/Favorites/R Things/Results 2023_12_7_CPu")
+setwd("__")
 library(readr)
 library(openxlsx)
 library(svMisc)
